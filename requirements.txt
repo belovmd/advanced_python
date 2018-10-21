@@ -1,2 +1,5 @@
 flake8
 pydocstyle
+./src/task1/c_ext
+cython
+./src/task1/cython_ext
